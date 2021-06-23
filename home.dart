@@ -121,4 +121,4 @@ class Product {
       };
 }
 
-// mobile=9480954152&reward_code=HOTOMEMR5Y
+// mobile=9480954152    reward_code=HOTOMEMR5Y
